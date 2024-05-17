@@ -1,5 +1,4 @@
-# Mints-Api
-Cashumints.space Api
+# Cashumints.space Api
 
 Welcome to the CashuMints.space API repository! This project provides access to various data points and resources related to Cashumints.space through a REST API. Our API allows you to retrieve information on blog posts, mints, and other key data ranked by popularity.
 
